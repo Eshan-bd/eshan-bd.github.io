@@ -1,200 +1,222 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "M Sakib Osman Eshan",
+    "label": "Associate Software Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "eshan.bd@outlook.com",
+    "phone": "8801832497111",
+    "url": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": ""
+      "city": "Dhaka",
+      "countryCode": "BD",
+      "region": ""
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "profiles": []
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Brain Station 23",
+      "position": "Associate Software Engineer",
+      "url": "",
+      "startDate": "2023-03",
+      "endDate": "Present",
+      "summary": "Developed and maintained Internet Banking and Digital Wallet applications using Java, RDBMS, REST API, and event-driven architecture.",
+      "highlights": [
+        "Collaborated with cross-functional teams",
+        "Resolved production issues",
+        "Mentored team members",
+        "Optimized production environments on Linux servers",
+        "Implemented high-performance caching solutions using Redis"
+      ]
+    },
+    {
+      "name": "Department of Computer Science and Engineering, BRAC University",
+      "position": "Undergraduate Researcher",
+      "url": "",
+      "startDate": "2022-02",
+      "endDate": "2023-07",
+      "summary": "Conducted research on federated learning with adversarial robustness and medical image analysis.",
+      "highlights": [
+        "Designed and implemented medical image classifiers",
+        "Experimented with adversarial attacks and aggregation methods",
+        "Developed a Vision Transformer-based disease detection model",
+        "Applied Paillier homomorphic encryption in federated learning"
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Robotics Club of BRAC University",
+      "location": "BRAC University, Dhaka",
+      "position": "Executive",
+      "url": "",
+      "startDate": "2019-09",
+      "endDate": "2021-03",
+      "summary": "Mentored new joiners, organized events, and participated in robotics competitions.",
+      "highlights": [
+        "Organized events",
+        "Mentored new members",
+        "Participated in Soccer Bot Competition, MindSparks 20"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "BRAC University",
+      "location": "Dhaka, Bangladesh",
+      "url": "",
+      "area": "Computer Science and Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "",
+      "endDate": "2023-05",
+      "score": "3.52",
+      "courses": [
+        "Linear Algebra",
+        "Calculus",
+        "Probability and Statistics",
+        "Numerical Methods",
+        "Data Structures and Algorithms",
+        "Artificial Intelligence",
+        "Neural Networks"
+      ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "Academic Distinction Award",
+      "date": "",
+      "awarder": "BRAC University",
+      "url": "",
+      "summary": ""
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "VC’s List",
+      "date": "",
+      "awarder": "BRAC University",
+      "url": "",
+      "summary": ""
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Byzantine-Resilient Federated Learning Leveraging Confidence Score to Identify Retinal Disease",
+      "publisher": "2023 International Conference on Digital Image Computing: Techniques and Applications (DICTA)",
+      "releaseDate": "2023",
+      "url": "https://doi.org/10.1109/DICTA60407.2023.00020",
+      "summary": ""
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Programming Languages",
+      "level": "",
+      "icon": "",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "Java",
+        "SQL",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Libraries and Frameworks",
+      "level": "",
+      "icon": "",
+      "keywords": [
+        "TensorFlow",
+        "Keras",
+        "PyTorch",
+        "OpenCV",
+        "Pandas",
+        "Scikit-Learn",
+        "Spring",
+        "Hibernate",
+        "Vue"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "",
+      "icon": "",
+      "keywords": [
+        "Git",
+        "Linux (RHEL)",
+        "Docker",
+        "Kubernetes",
+        "Jenkins",
+        "PyCharm",
+        "IntelliJ",
+        "Latex"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "English",
+      "fluency": "Intermediate",
       "icon": ""
     },
     {
-      "language": "English",
+      "language": "Bangla",
       "fluency": "Fluent",
       "icon": ""
     }
   ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
+  "interests": [],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Dr. Mohammad Zavid Parvez",
+      "icon": "",
+      "reference": "Lecturer, RMIT University, Australia. Assistant Professor (Former), Department of Computer Science and Engineering, BRAC University."
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Tanzim Reza",
+      "icon": "",
+      "reference": "Senior Lecturer, Department of Computer Science and Engineering, BRAC University."
+    },
+    {
+      "name": "Md. Hafizur Rahman Arfin",
+      "icon": "",
+      "reference": "Software Engineer, MarginEdge. Senior Software Engineer (Former), Brain Station 23."
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Encrypted Federated Learning for Detecting Skin Lesions",
+      "summary": "Explored image augmentation methods like SMOTE to handle class imbalance and applied a BFV-based homomorphic system in federated learning.",
+      "highlights": [],
+      "startDate": "2023",
+      "endDate": ""
+    },
+    {
+      "name": "Malaria-Infected Cell Classifier using Vision Transformer",
+      "summary": "Developed a Vision Transformer model achieving 95.48% accuracy for malaria-infected cell classification.",
+      "highlights": [],
+      "startDate": "2023",
+      "endDate": ""
+    },
+    {
+      "name": "Explainable Neural Network for Alzheimer’s Disease Analysis",
+      "summary": "Trained a classifier using InceptionV3 and VGG19 and incorporated regional explanations using LIME.",
+      "highlights": [],
+      "startDate": "2022",
+      "endDate": ""
+    },
+    {
+      "name": "Internet Banking Solution",
+      "summary": "Developed scalable microservices-based Internet banking solutions for AB Bank, Modhumoti Bank, and NCC Bank.",
+      "highlights": [],
+      "startDate": "2024",
+      "endDate": ""
+    },
+    {
+      "name": "Digital Wallet",
+      "summary": "Designed and maintained a digital wallet for ABG Pocket, enhancing system performance and user experience.",
+      "highlights": [],
+      "startDate": "2024",
+      "endDate": ""
     }
   ]
 }
